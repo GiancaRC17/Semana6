@@ -23,3 +23,4 @@ interface Curso {
 
 const curso: Curso = { nombre: "JavaScript Avanzado", creditos: 3 };
 console.log(`Curso: ${curso.nombre} (${curso.creditos} créditos)`);
+export {};

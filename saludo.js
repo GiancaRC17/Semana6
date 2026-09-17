@@ -1,4 +1,3 @@
-"use strict";
 // Mini-LMS · Semana 6 - Sesión 11
 console.log("Hola desde Node.js");
 // Variables tipadas
@@ -13,3 +12,4 @@ function saludar(persona) {
 console.log(saludar(nombre));
 const curso = { nombre: "JavaScript Avanzado", creditos: 3 };
 console.log(`Curso: ${curso.nombre} (${curso.creditos} créditos)`);
+export {};
